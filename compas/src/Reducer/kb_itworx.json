@@ -1,0 +1,3144 @@
+{
+  "departments": [
+    {
+            "name" : "Global Services/DoZen",
+            "practices": [
+              {
+                "name": "NodeJS",
+                "titles": [
+                  {
+                    "title": "Software Engineer",
+                    "description": {
+                      "function": "Global Service/DoZen",
+                      "subFunction": "Software Development",
+                      "reportsTo": "Program Manager/Technical Lead",
+                      "jobPurpose": "Execute the software development life cycle of applications and programs (installing; analyzing; documenting; coding/development; and unit testing).",
+                      "keyAccountAbilities": [
+                        "Interpret the customer requirements into deliverables (code; installation of a system; deployment. … etc) and ensure they are well mapped with the requirements",
+                        "Participate in the time estimation of projects (when needed) while following the project plan and timeline as well as the organization processes and standards",
+                        "Execute the software lifecycle following the agreed on methodology",
+                        "Deliver the code as per the agreed on technology stack while following the coding and security guidelines as well as the quality standards.",
+                        "Create and execute unit test cases",
+                        "Document the code",
+                        "Report work progress; technical issues; risks; and changes in delivery dates to the technical lead and the project manager",
+                        "Additional accountabilities in case of full stack/frontend assignment:",
+                        "Convert visual screens to UI elements for any portal or application",
+                        "Create prototypes using UI technologies"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "Collaboration: Level 1",
+                          "link": "https://kb.itworx.com/departments/kb.itworx.com/competencies?competency=Collaboration&levels=Level%201&department=Global%20Services/DoZen"
+                        },
+
+                        {
+                          "name": "Agility: Level 1",
+                          "link": "https://kb.itworx.com/competencies/?competency=Agility&levels=Level%201&department=Global%20Services%2FDoZen"
+                        },
+
+                        {
+                          "name": "Lifelong Learning: Level 1",
+                          "link": "https://kb.itworx.com/competencies/?competency=Lifelong%20Learning&levels=Level%201&department=Global%20Services%2FDoZen"
+                        },
+
+                        {
+                          "name": "Customer Focus: Level 1",
+                          "link": "https://kb.itworx.com/competencies/?competency=Customer%20Focus&levels=Level%201&department=Global%20Services%2FDoZen"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "Analytical Mindset: Level 1",
+                          "link": "https://kb.itworx.com/competencies/?competency=Analytical%20Mindset&levels=Level%201&department=Global%20Services%2FDoZen"
+                        },
+
+                        {
+                          "name": "Drive For Results: Level 1",
+                          "link": "https://kb.itworx.com/competencies/?competency=Drive%20For%20Results&levels=Level%201&department=Global%20Services%2FDoZen"
+                        },
+
+                        {
+                          "name": "Innovation: Level 1",
+                          "link": "https://kb.itworx.com/competencies/?competency=Innovation&levels=Level%201&department=Global%20Services%2FDoZen"
+                        }                   
+                      ],
+                      "coreSkills": [
+                        "Communication skills",
+                        "Presentation skills",
+                        "Problem solving skills",
+                        "Agility",
+                        "Teamwork"
+                      ],
+                      "technicalKnowledge": "Refer to T-Shape",
+                      "qualifications": [
+                        "Bachelor's degree in computer science or equivalent",
+                        "0 to 3 years of relevant experience"
+                      ]
+                    }
+                  },
+
+                  {
+                    "title": "Senior Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "Mobile",
+              "titles": [
+                  {
+                    "title": "Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "Custom Development-Python",
+              "titles": [
+                  {
+                    "title": "Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "Custom Development-Java",
+              "titles": [
+                  {
+                    "title": "Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "Custom Development-DotNet",
+              "titles": [
+                  {
+                    "title": "Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "Sharepoint",
+              "titles": [
+                  {
+                    "title": "Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "Sitecore-FrontEnd",
+              "titles": [
+                  {
+                    "title": "Front-End Developer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Front-End Developer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Front-End Developer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Front-End Developer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Front-End Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Front-End Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "Sitecore-Backend",
+              "titles": [
+                  {
+                    "title": "Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "Dynamics 365 and Power Platform",
+              "titles": [
+                  {
+                    "title": "Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Software Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Software Engineer L3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Software Engineer P3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Technical Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "FrontEnd",
+              "titles": [
+                  {
+                    "title": "Front-End Developer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Front-End Developer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Front-End Developer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Front-End Developer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Front-End Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Front-End Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+                ]
+            },
+
+            {
+              "name": "Testing",
+              "titles": [
+                  {
+                    "title": "Testing Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Testing Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Testing Engineer L1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Testing Engineer L2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Testing Engineer L3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Testing Engineer P1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Testing Engineer P2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Testing Engineer P3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Testing Manager",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Testing Manager",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "PMO",
+              "titles": [
+                  {
+                    "title": "Associate Project Manager",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Project Manager",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Project Manager",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Program Manager",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Service Deivery Manager",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Service Delivery Director",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+                ]
+            },
+
+            {
+              "name": "Architecture",
+              "titles": [
+                  {
+                    "title": "Technical Architect",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Technical Architect",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Technical Architect",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Chief Technical Architect",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+                ]
+            },
+
+            {
+              "name": "Business Analysis",
+              "titles": [
+                  {
+                    "title": "Business Analysit",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Business Analysit",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Business Analysit",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Business Analysit",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Business Analysis Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Business Analysis Senior Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "Automation Testing",
+              "titles": [
+                  {
+                    "title": "Testing Automation Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Testing Automation Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Testing Automation Engineer L1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Testing Automation Engineer L2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Testing Automation Engineer L3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Testing Automation Engineer P1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Testing Automation Engineer P2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Testing Automation Engineer P3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Testing Automation Manager",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "Application Support",
+              "titles": [
+                  {
+                    "title": "Application Support Specialist",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Application Support Specialist",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "DBA",
+              "titles": [
+                  {
+                    "title": "Database Application Administrator",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Database Application Administrator",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Database Application Administrator",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Database Application Administrator",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Database Application Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Database Application Senior Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "DevOps",
+              "titles": [
+                  {
+                    "title": "DevOps Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior DevOps Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead DevOps Engineer L1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead DevOps Engineer L2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead DevOps Engineer L3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal DevOps Engineer P1",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal DevOps Engineer P2",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal DevOps Engineer P3",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "DevOps Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior DevOps Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "DevOps Manager",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior DevOps Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "DevOps Director",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "Advanced Analytics",
+              "titles": [
+                  {
+                    "title": "Advanced Analytics Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Advanced Analytics Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Advanced Analytics Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Advanced Analytics Engineer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Advanced Analytics Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Advanced Analytics Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Advanced Analytics Manager",
+                    "description": {
+                    "function": "",
+                    "subFunction": "",
+                    "reportsTo": "",
+                    "jobPurpose": "",
+                    "keyAccountAbilities": "",
+                    "coreCompetencies": "",
+                    "functionCompetencies": "",
+                    "coreSkills": "",
+                    "technicalKnowledge": "",
+                    "qualifications": ""
+                      }
+                    }
+              ]
+            },
+
+            {
+              "name": "BI",
+              "titles": [
+                  {
+                    "title": "BI Developer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior BI Developer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead BI Developer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal BI Developer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "BI Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior BI Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "Product",
+              "titles": [
+                  {
+                    "title": "Product Specialist",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Product Specialist",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Product Specialist",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Product Specialist",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            },
+
+            {
+              "name": "UX and Graphic Design",
+              "titles": [
+                  {
+                    "title": "Junior UX Designer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior UX Designer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead UX Designer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal UX Designer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "UX Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Junior Graphic Designer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Graphic Designer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Lead Graphic Designer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Principal Graphic Designer",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Graphic Design Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  },
+
+                  {
+                    "title": "Senior Graphic Design Consultant",
+                    "description": {
+                      "function": "",
+                      "subFunction": "",
+                      "reportsTo": "",
+                      "jobPurpose": "",
+                      "keyAccountAbilities": "",
+                      "coreCompetencies": "",
+                      "functionCompetencies": "",
+                      "coreSkills": "",
+                      "technicalKnowledge": "",
+                      "qualifications": ""
+                    }
+                  }
+              ]
+            }
+            ]
+          },
+
+          {
+            "name": "AIS/MIS",
+            "practices": [
+              {
+                "name": "Infrastructure",
+                "titles": [
+                  "Infrastructure Engineer",
+                  "Senior Infrastructure Engineer",
+                  "Lead Infrastructure Engineer",
+                  "Principal Infrastructure Engineer",
+                  "Infrastructure Consultant",
+                  "Infrastructure Senior Consultant",
+                  "Infrastructure Manager",
+                  "Infrastructure Senior Manager",
+                  "Infrastructure Director"
+                ]  
+              },
+
+              {
+                "name": "Internal Service Desk",
+                "titles": [
+                  "IS Engineer",
+                  "Senior IS Engineer",
+                  "Lead IS Engineer",
+                  "Principal IS Engineer",
+                  "Sercice Desk Manager"
+                ]
+              },
+
+              {
+                "name": "Infra-UNIX",
+                "titles": [
+                  "System Engineer",
+                  "Senior System Engineer",
+                  "Lead System Engineer",
+                  "Principal System Engineer",
+                  "System Engineering Consultant",
+                  "Senior System Engineering Consultant",
+                  "System Engineering Manager",
+                  "Chief Infrastructure Architect"
+                ]
+              },
+
+              {
+                "name": "Infra-MS",
+                "titles": [
+                  "System Engineer",
+                  "Senior System Engineer",
+                  "Lead System Engineer",
+                  "Principal System Engineer",
+                  "System Engineering Consultant",
+                  "Senior System Engineering Consultant",
+                  "System Engineering Manager",
+                  "Chief Infrastructure Architect"
+                ]
+              },
+
+              {
+                "name": "Internal Applications",
+                "titles": [
+                  "Software Engineer",
+                  "Senior Software Engineer",
+                  "Lead Software Engineer- L1",
+                  "Lead Software Engineer- L2",
+                  "Lead Software Engineer- L3",
+                  "Principal Software Engineer- P1",
+                  "Principal Software Engineer- P2",
+                  "Principal Software Engineer- P3",
+                  "Technical Consultant",
+                  "Senior Technical Consultant",
+                  "Testing Engineer",
+                  "Senior Testing Engineer",
+                  "Lead Testing Engineer L1",
+                  "Lead Testing Engineer L2",
+                  "Lead Testing Engineer L3",
+                  "Principal Testing Engineer P1",
+                  "Principal Testing Engineer p2",
+                  "Principal Testing Engineer p3",
+                  "Senior Internal Apllication Specialist",
+                  "Internal Applications Manager",
+                  "Senior Internal Applications Manager"
+                ]
+              }
+            ]
+          },
+
+          {
+            "name": "HR",
+            "practices": [
+              {
+                "name": "Talent Placement and Deployment",
+                "titles": [
+                  "Talent Placement and Deployment Administrator",
+                  "Talent Placement and Deployment Specialist",
+                  "Talent Placement and Deployment Senior Specialist",
+                  "Talent Placement and Deployment Lead",
+                  "Talent Placement and Deployment Principal",
+                  "Talent Placement and Deployment Manager",
+                  "Talent Placement and Deployment Senior Manager"
+                ]
+              },
+
+              {
+                "name": "Corporate Communications",
+                "titles": [
+                  "Corporate Communications Specialist",
+                  "Corporate Communications Senior Specialist",
+                  "Corporate Communications lead",
+                  "Corporate Communications Manager"
+                ]
+              },
+
+              {
+                "name": "Legal",
+                "titles": [
+                  "Junior Corporate Lawyer",
+                  "Corporate Lawyer",
+                  "Senior Corporate Lawyer",
+                  "Associate Legal Manager",
+                  "Legal Manager",
+                  "Senior Legal Manager",
+                  "Legal Director"
+                ]
+              },
+
+              {
+                "name": "Administration",
+                "titles": [
+                  "Administration Specialist",
+                  "Administration Senior Specialist",
+                  "Administration Lead",
+                  "Administration Senior Manager"
+                ]
+              },
+
+              {
+                "name": "Ghraphic Designer",
+                "titles": [
+                  "Ghraphic Designer",
+                  "Senior Ghraphic Designer",
+                  "Lead Ghraphic Designer"
+                ]
+              },
+
+              {
+                "name": "Commercial",
+                "titles": [
+                  "Marketing Specialist",
+                  "Senior Marketing Specialist",
+                  "Lead Marketing Specialist"
+                ]
+              }
+            ]
+          }
+        ]
+        }
