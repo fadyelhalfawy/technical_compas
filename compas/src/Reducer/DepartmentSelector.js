@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
-import jsonData from './kb_itworx.json';
+import jsonData from '../JSON/kb_itworx.json';
 import Primary from './Primary';
 import Secondary from './Secondary';
+import { useNavigate  } from 'react-router-dom';
 
 const DepartmentSelector = () => {
     const [primaryDepartment, setprimaryDepartment] = useState("");
@@ -11,6 +12,10 @@ const DepartmentSelector = () => {
     const [secondaryDepartment, setSecondaryDepartment] = useState("");
     const [secondaryPractice, setSecondaryPractice] = useState("");
     const [secondaryTitle, setSecondaryTitle] = useState("");
+
+    const navigate = useNavigate();
+
+    // const [data, setData] = useState("");
 
     const handlePrimaryDepartmentChange = (e) => {
         setprimaryDepartment(e.target.value);
@@ -42,8 +47,35 @@ const handleSecondaryTitleChange = (e) => {
     setSecondaryTitle(e.target.value);
 };
 
+const handleCompetencies = (e) => {
+  e.preventDefault();
+
+  const text = e.target.textContent;
+  const competencies = text.split(/[\s:]/)[0];
+
+  const match = text.match(/[1-3]/);
+  const level = `Level ${match ? parseInt(match[0], 10) : "Unknown"}`;
+    
+  navigate('/competencies', {
+    state: { competencie: competencies , level: level },
+  });
+
+  
+};
+
+// const fetchData = () => {
+//   if (selectedPrimaryDepartment && selectedPrimaryPractice && selectedPrimaryTitle) {
+//     fetch(`/api/data?practice=${selectedPrimaryPractice}&Title=${selectedPrimaryTitle}`)
+//       .then(response => response.json())
+//       .then(data => setData(data))
+//       .catch(error => console.error('Error fetching data:', error));
+//   } else {
+//     alert('Please make all selections');
+//   }
+// };
+
   const Departments = jsonData.departments;
-  const selectedPrimaryDepartment = jsonData.departments.find(dep => dep.name === primaryDepartment);
+  const selectedPrimaryDepartment = Departments.find(dep => dep.name === primaryDepartment);
 
   const primaryPractices = selectedPrimaryDepartment ? selectedPrimaryDepartment.practices : [];
   const selectedPrimaryPractice = primaryPractices.find(prac => prac.name === primaryPractice);
@@ -75,6 +107,8 @@ const handleSecondaryTitleChange = (e) => {
                 handleDepartment={handlePrimaryDepartmentChange}
                 handlePractice={handlePrimaryPracticeChange}
                 handleTitle={handlePrimaryTitleChange}
+                handleCompetencies={handleCompetencies}
+                // fetchData={fetchData}
             />
 
             <Secondary 
@@ -90,6 +124,7 @@ const handleSecondaryTitleChange = (e) => {
                 handleDepartment={handleSecondaryDepartmentChange}
                 handlePractice={handleSecondaryPracticeChange}
                 handleTitle={handleSecondaryTitleChange}
+                handleCompetencies={handleCompetencies}
             />
         </div>
     </div>
