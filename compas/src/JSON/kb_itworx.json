@@ -28,38 +28,38 @@
                       "coreCompetencies": [
                         {
                           "name": "Collaboration: Level 1",
-                          "link": "https://kb.itworx.com/departments/kb.itworx.com/competencies?competency=Collaboration&levels=Level%201&department=Global%20Services/DoZen"
+                          "link": "/competencies"
                         },
 
                         {
                           "name": "Agility: Level 1",
-                          "link": "https://kb.itworx.com/competencies/?competency=Agility&levels=Level%201&department=Global%20Services%2FDoZen"
+                          "link": "/competencies"
                         },
 
                         {
                           "name": "Lifelong Learning: Level 1",
-                          "link": "https://kb.itworx.com/competencies/?competency=Lifelong%20Learning&levels=Level%201&department=Global%20Services%2FDoZen"
+                          "link": "/competencies"
                         },
 
                         {
                           "name": "Customer Focus: Level 1",
-                          "link": "https://kb.itworx.com/competencies/?competency=Customer%20Focus&levels=Level%201&department=Global%20Services%2FDoZen"
+                          "link": "/competencies"
                         }
                       ],
                       "functionCompetencies": [
                         {
                           "name": "Analytical Mindset: Level 1",
-                          "link": "https://kb.itworx.com/competencies/?competency=Analytical%20Mindset&levels=Level%201&department=Global%20Services%2FDoZen"
+                          "link": "/competencies"
                         },
 
                         {
                           "name": "Drive For Results: Level 1",
-                          "link": "https://kb.itworx.com/competencies/?competency=Drive%20For%20Results&levels=Level%201&department=Global%20Services%2FDoZen"
+                          "link": "/competencies"
                         },
 
                         {
                           "name": "Innovation: Level 1",
-                          "link": "https://kb.itworx.com/competencies/?competency=Innovation&levels=Level%201&department=Global%20Services%2FDoZen"
+                          "link": "/competencies"
                         }                   
                       ],
                       "coreSkills": [
@@ -80,144 +80,717 @@
                   {
                     "title": "Senior Software Engineer",
                     "description": {
-                      "function": "",
-                      "subFunction": "",
-                      "reportsTo": "",
-                      "jobPurpose": "",
-                      "keyAccountAbilities": "",
-                      "coreCompetencies": "",
-                      "functionCompetencies": "",
-                      "coreSkills": "",
-                      "technicalKnowledge": "",
-                      "qualifications": ""
+                      "function": "Global Services/DoZen",
+                      "subFunction": "Software Development",
+                      "reportsTo": "Program Manager/Technical Lead",
+                      "jobPurpose": "Execute the software development life cycle of applications and programs (installation; configuration; deployment; analyzing; documenting; coding/development; and unit testing).",
+                      "keyAccountAbilities": [
+                        "Interpret the customer requirements into deliverables (code; installation of a system; deployment. … etc) and ensure they are well mapped with the requirements",
+                        "Participate in the time estimation of projects (when needed) while following the project plan and timeline as well as the organization processes and standards",
+                        "Execute the software lifecycle following the agreed on methodology",
+                        "Deliver the code as per the agreed on technology stack while following the coding and security guidelines as well as the quality standards.",
+                        "Create and execute unit test cases",
+                        "Document the code",
+                        "Contribute to code review and project design (when needed)",
+                        "Report work progress; technical issues; risks; and changes in delivery dates to the technical lead and the project manager",
+                        "Support junior members of the team when needed",
+                        "Additional accountabilities in case of full stack/frontend assignment:",
+                        "Convert visual screens to UI elements for any portal or application",
+                        "Create prototypes using UI technologies"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "Collaboration: Level 1",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Agility: Level 1",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Lifelong Learning: Level 1",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Customer Focus: Level 1",
+                          "link": "/competencies"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "Analytical Mindset: Level 1",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Drive For Results: Level 1",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Innovation: Level 1",
+                          "link": "/competencies"
+                        }                   
+                      ],
+                      "coreSkills": [
+                        "Communication skills",
+                        "Presentation skills",
+                        "Problem solving skills",
+                        "Agility",
+                        "Teamwork"
+                      ],
+                      "technicalKnowledge": "Refer to T-Shape",
+                      "qualifications": [
+                        "Bachelor's degree in computer science or equivalent",
+                        "3+ years of relevant experience"
+                      ]
                     }
                   },
 
                   {
                     "title": "Lead Software Engineer L1",
                     "description": {
-                      "function": "",
-                      "subFunction": "",
-                      "reportsTo": "",
-                      "jobPurpose": "",
-                      "keyAccountAbilities": "",
-                      "coreCompetencies": "",
-                      "functionCompetencies": "",
-                      "coreSkills": "",
-                      "technicalKnowledge": "",
-                      "qualifications": ""
+                      "function": "Global Services/DoZen",
+                      "subFunction": "Software Development",
+                      "reportsTo": "Program Manager/Technical Lead",
+                      "jobPurpose": "Manage and ensure the execution of software development life cycle of applications and programs (installation; configuration; deployment; analyzing; documenting; coding/development; and unit testing) as well as leading junior and senior engineers assigned to projects",
+                      "keyAccountAbilities": [
+                        "Interpret the customer requirements into deliverables (code; installation of a system; deployment. … etc) and ensure they are well mapped with the requirements",
+                        "Manage the time estimation of projects while following the project plan and timeline as well as the organization processes and standards",
+                        "Manage and ensure the execution of the software lifecycle following the agreed on methodology (might execute when needed and as per the project needs)",
+                        "Manage and ensure the delivery of the code as per the agreed on technology stack while following the coding and security guidelines (might execute when needed and as per the project needs)",
+                        "Manage and ensure the creation and execution of unit test cases (might execute when needed and as per the project needs)",
+                        "Ensure the documentation of the code (might document when needed and as per the project needs)",
+                        "Conduct code review for junior and senior engineers",
+                        "Create the project architecture and design in collaboration with the technical architect; technical software lead; or principal software engineer (depending on the assigned project delivery team)",
+                        "Ensure the creation of application specifications and guidelines",
+                        "Integrate software components into a fully functional software system",
+                        "Collaborate with the testing team in developing software verification plans and quality assurance procedures",
+                        "Support the testing team and supervise and guide the technical team across the project lifecycle",
+                        "Represent the development team in the communication with customers throughout the project lifecycle",
+                        "Manage the solution deployment",
+                        "Conduct UAT with the customer (upon assignment from the project manager)",
+                        "Fix nonconformities resulting from engineering processes audit and architecture audit",
+                        "Report work progress; technical issues; risks; and changes in delivery dates to the technical lead and the project manager",
+                        "Participate in the hiring process of technical team members",
+                        "Additional accountabilities in case of full stack/frontend assignment:",
+                        "Manage and ensure the conversion of visual screens to UI elements for any portal or application (might execute when needed and as per the project needs)",
+                        "Manage and ensure the creation of prototypes using UI technologies (might execute when needed and as per the project needs)"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "Collaboration: Level 1",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Agility: Level 1",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Lifelong Learning: Level 1",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Customer Focus: Level 1",
+                          "link": "/competencies"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "Analytical Mindset: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Drive For Results: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Innovation: Level 2",
+                          "link": "/competencies"
+                        }                   
+                      ],
+                      "coreSkills": [
+                        "Communication skills",
+                        "Presentation skills",
+                        "Problem solving skills",
+                        "Agility",
+                        "Teamwork",
+                        "Leadership"
+                      ],
+                      "technicalKnowledge": "Refer to T-Shape",
+                      "qualifications": [
+                        "Bachelor's degree in computer science or equivalent",
+                        "5+ years of relevant experience"
+                      ]
                     }
                   },
 
                   {
                     "title": "Lead Software Engineer L2",
                     "description": {
-                      "function": "",
-                      "subFunction": "",
-                      "reportsTo": "",
-                      "jobPurpose": "",
-                      "keyAccountAbilities": "",
-                      "coreCompetencies": "",
-                      "functionCompetencies": "",
-                      "coreSkills": "",
-                      "technicalKnowledge": "",
-                      "qualifications": ""
+                      "function": "Global Services/DoZen",
+                      "subFunction": "Software Development",
+                      "reportsTo": "Program Manager/Technical Lead",
+                      "jobPurpose": "Manage and ensure the execution of software development life cycle of applications and programs (installation; configuration; deployment; analyzing; documenting; coding/development; and unit testing) as well as leading junior and senior engineers assigned to projects",
+                      "keyAccountAbilities": [
+                        "Interpret the customer requirements into deliverables (code; installation of a system; deployment. … etc) and ensure they are well mapped with the requirements",
+                        "Manage the time estimation of projects while following the project plan and timeline as well as the organization processes and standards",
+                        "Manage and ensure the execution of the software lifecycle following the agreed on methodology (might execute when needed and as per the project needs)",
+                        "Manage and ensure the delivery of the code as per the agreed on technology stack while following the coding and security guidelines (might execute when needed and as per the project needs)",
+                        "Manage and ensure the creation and execution of unit test cases (might execute when needed and as per the project needs)",
+                        "Ensure the documentation of the code (might document when needed and as per the project needs)",
+                        "Conduct code review for junior and senior engineers",
+                        "Create the project architecture and design in collaboration with the technical architect",
+                        "Ensure the creation of application specifications and guidelines",
+                        "Integrate software components into a fully functional software system",
+                        "Collaborate with the testing team in developing software verification plans and quality assurance procedures",
+                        "Support the testing team and supervise and guide the technical team across the project lifecycle",
+                        "Represent the development team in the communication with customers throughout the project lifecycle",
+                        "Manage the solution deployment",
+                        "Conduct UAT with the customer (upon assignment from the project manager)",
+                        "Fix nonconformities resulting from engineering processes audit and architecture audit",
+                        "Report work progress; technical issues; risks; and changes in delivery dates to the technical lead and the project manager",
+                        "Participate in the hiring process of technical team members",
+                        "Additional accountabilities in case of full stack/frontend assignment:",
+                        "Manage and ensure the conversion of visual screens to UI elements for any portal or application (might execute when needed and as per the project needs)",
+                        "Manage and ensure the creation of prototypes using UI technologies (might execute when needed and as per the project needs)"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "Collaboration: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Agility: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Lifelong Learning: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Customer Focus: Level 2",
+                          "link": "/competencies"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "Analytical Mindset: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Drive For Results: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Innovation: Level 2",
+                          "link": "/competencies"
+                        }                   
+                      ],
+                      "coreSkills": [
+                        "Communication skills",
+                        "Presentation skills",
+                        "Problem solving skills",
+                        "Agility",
+                        "Teamwork",
+                        "Leadership"
+                      ],
+                      "technicalKnowledge": "Refer to T-Shape",
+                      "qualifications": [
+                        "Bachelor's degree in computer science or equivalent",
+                        "7+ years of relevant experience"
+                      ]
                     }
                   },
 
                   {
                     "title": "Lead Software Engineer L3",
                     "description": {
-                      "function": "",
-                      "subFunction": "",
-                      "reportsTo": "",
-                      "jobPurpose": "",
-                      "keyAccountAbilities": "",
-                      "coreCompetencies": "",
-                      "functionCompetencies": "",
-                      "coreSkills": "",
-                      "technicalKnowledge": "",
-                      "qualifications": ""
+                      "function": "Global Services/DoZen",
+                      "subFunction": "Software Development",
+                      "reportsTo": "Program Manager/Technical Lead",
+                      "jobPurpose": "Manage and ensure the execution of software development life cycle of applications and programs (installation; configuration; deployment; analyzing; documenting; coding/development; and unit testing) as well as leading junior and senior engineers assigned to projects",
+                      "keyAccountAbilities": [
+                        "Interpret the customer requirements into deliverables (code; installation of a system; deployment. … etc) and ensure they are well mapped with the requirements",
+                        "Manage the time estimation of projects while following the project plan and timeline as well as the organization processes and standards",
+                        "Manage and ensure the execution of the software lifecycle following the agreed on methodology (might execute when needed and as per the project needs)",
+                        "Manage and ensure the delivery of the code as per the agreed on technology stack while following the coding and security guidelines (might execute when needed and as per the project needs)",
+                        "Manage and ensure the creation and execution of unit test cases (might execute when needed and as per the project needs)",
+                        "Ensure the documentation of the code (might document when needed and as per the project needs)",
+                        "Conduct code review for junior and senior engineers",
+                        "Create the project architecture and design in collaboration with the technical architect",
+                        "Ensure the creation of application specifications and guidelines",
+                        "Integrate software components into a fully functional software system",
+                        "Collaborate with the testing team in developing software verification plans and quality assurance procedures",
+                        "Support the testing team and supervise and guide the technical team across the project lifecycle",
+                        "Represent the development team in the communication with customers throughout the project lifecycle",
+                        "Manage the solution deployment",
+                        "Conduct UAT with the customer (upon assignment from the project manager)",
+                        "Fix nonconformities resulting from engineering processes audit and architecture audit",
+                        "Report work progress; technical issues; risks; and changes in delivery dates to the technical lead and the project manager",
+                        "Participate in the hiring process of technical team members",
+                        "Additional accountabilities in case of full stack/frontend assignment:",
+                        "Manage and ensure the conversion of visual screens to UI elements for any portal or application (might execute when needed and as per the project needs)",
+                        "Manage and ensure the creation of prototypes using UI technologies (might execute when needed and as per the project needs)"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "Collaboration: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Agility: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Lifelong Learning: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Customer Focus: Level 2",
+                          "link": "/competencies"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "Analytical Mindset: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Drive For Results: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Innovation: Level 2",
+                          "link": "/competencies"
+                        }                   
+                      ],
+                      "coreSkills": [
+                        "Communication skills",
+                        "Presentation skills",
+                        "Problem solving skills",
+                        "Agility",
+                        "Teamwork",
+                        "Leadership"
+                      ],
+                      "technicalKnowledge": "Refer to T-Shape",
+                      "qualifications": [
+                        "Bachelor's degree in computer science or equivalent",
+                        "9+ years of relevant experience"
+                      ]
                     }
                   },
 
                   {
                     "title": "Principal Software Engineer P1",
                     "description": {
-                      "function": "",
-                      "subFunction": "",
-                      "reportsTo": "",
-                      "jobPurpose": "",
-                      "keyAccountAbilities": "",
-                      "coreCompetencies": "",
-                      "functionCompetencies": "",
-                      "coreSkills": "",
-                      "technicalKnowledge": "",
-                      "qualifications": ""
+                      "function": "Global Services/DoZen",
+                      "subFunction": "Software Development",
+                      "reportsTo": "Program Manager/Technical Lead",
+                      "jobPurpose": "Manage large and complex solutions and projects; ensure the execution of software development life cycle of applications and programs (installation; configuration; deployment; analyzing; documenting; coding/development; and unit testing) as well as acting as the technical lead and managing other software engineers assigned to projects",
+                      "keyAccountAbilities": [
+                        "Interpret the customer requirements into deliverables (code; installation of a system; deployment. … etc) and ensure they are well mapped with the requirements",
+                        "Manage the time estimation of projects while following the project plan and timeline as well as the organization processes and standards",
+                        "Manage and ensure the execution of the software lifecycle following the agreed on methodology (might execute when needed and as per the project needs)",
+                        "Manage and ensure the delivery of the code as per the agreed on technology stack while following the coding and security guidelines (might execute when needed and as per the project needs)",
+                        "Manage and ensure the creation and execution of unit test cases (might execute when needed and as per the project needs)",
+                        "Ensure the documentation of the code (might document when needed and as per the project needs)",
+                        "Conduct code review for junior and senior engineers",
+                        "Create the project architecture and design in collaboration with the technical architect",
+                        "Ensure the creation of application specifications and guidelines",
+                        "Integrate software components into a fully functional software system",
+                        "Collaborate with the testing team in developing software verification plans and quality assurance procedures",
+                        "Support the testing team and supervise and guide the technical team across the project lifecycle",
+                        "Represent the development team in the communication with customers throughout the project lifecycle",
+                        "Manage the solution deployment",
+                        "Conduct UAT with the customer (upon assignment from the project manager)",
+                        "Fix nonconformities resulting from engineering processes audit and architecture audit",
+                        "Report work progress; technical issues; risks; and changes in delivery dates to the technical lead and the project manager",
+                        "Participate in the hiring process of technical team members",
+                        "Additional accountabilities in case of full stack/frontend assignment:",
+                        "Manage and ensure the conversion of visual screens to UI elements for any portal or application (might execute when needed and as per the project needs)",
+                        "Manage and ensure the creation of prototypes using UI technologies (might execute when needed and as per the project needs)"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "Collaboration: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Agility: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Lifelong Learning: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Customer Focus: Level 2",
+                          "link": "/competencies"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "Analytical Mindset: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Drive For Results: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Innovation: Level 3",
+                          "link": "/competencies"
+                        }                   
+                      ],
+                      "coreSkills": [
+                        "Communication skills",
+                        "Presentation skills",
+                        "Problem solving skills",
+                        "Agility",
+                        "Teamwork",
+                        "Leadership"
+                      ],
+                      "technicalKnowledge": "Refer to T-Shape",
+                      "qualifications": [
+                        "Bachelor's degree in computer science or equivalent",
+                        "11+ years of relevant experience including 6 to 7 years in a senior software engineering role"
+                      ]
                     }
                   },
 
                   {
                     "title": "Principal Software Engineer P2",
                     "description": {
-                      "function": "",
-                      "subFunction": "",
-                      "reportsTo": "",
-                      "jobPurpose": "",
-                      "keyAccountAbilities": "",
-                      "coreCompetencies": "",
-                      "functionCompetencies": "",
-                      "coreSkills": "",
-                      "technicalKnowledge": "",
-                      "qualifications": ""
+                      "function": "Global Services/DoZen",
+                      "subFunction": "Software Development",
+                      "reportsTo": "Program Manager/Technical Lead",
+                      "jobPurpose": "Manage large and complex solutions and projects; ensure the execution of software development life cycle of applications and programs (installation; configuration; deployment; analyzing; documenting; coding/development; and unit testing) as well as acting as the technical lead and managing other software engineers assigned to projects",
+                      "keyAccountAbilities": [
+                        "Interpret the customer requirements into deliverables (code; installation of a system; deployment. … etc) and ensure they are well mapped with the requirements",
+                        "Manage the time estimation of projects while following the project plan and timeline as well as the organization processes and standards",
+                        "Manage and ensure the execution of the software lifecycle following the agreed on methodology (might execute when needed and as per the project needs)",
+                        "Manage and ensure the delivery of the code as per the agreed on technology stack while following the coding and security guidelines (might execute when needed and as per the project needs)",
+                        "Manage and ensure the creation and execution of unit test cases (might execute when needed and as per the project needs)",
+                        "Ensure the documentation of the code (might document when needed and as per the project needs)",
+                        "Conduct code review for junior and senior engineers",
+                        "Create the project architecture and design in collaboration with the technical architect",
+                        "Ensure the creation of application specifications and guidelines",
+                        "Integrate software components into a fully functional software system",
+                        "Collaborate with the testing team in developing software verification plans and quality assurance procedures",
+                        "Support the testing team and supervise and guide the technical team across the project lifecycle",
+                        "Represent the development team in the communication with customers throughout the project lifecycle",
+                        "Manage the solution deployment",
+                        "Conduct UAT with the customer (upon assignment from the project manager)",
+                        "Fix nonconformities resulting from engineering processes audit and architecture audit",
+                        "Report work progress; technical issues; risks; and changes in delivery dates to the technical lead and the project manager",
+                        "Participate in the hiring process of technical team members",
+                        "Additional accountabilities in case of full stack/frontend assignment:",
+                        "Manage and ensure the conversion of visual screens to UI elements for any portal or application (might execute when needed and as per the project needs)",
+                        "Manage and ensure the creation of prototypes using UI technologies (might execute when needed and as per the project needs)"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "Collaboration: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Agility: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Lifelong Learning: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Customer Focus: Level 2",
+                          "link": "/competencies"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "Analytical Mindset: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Drive For Results: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Innovation: Level 3",
+                          "link": "/competencies"
+                        }                   
+                      ],
+                      "coreSkills": [
+                        "Communication skills",
+                        "Presentation skills",
+                        "Problem solving skills",
+                        "Agility",
+                        "Teamwork",
+                        "Leadership"
+                      ],
+                      "technicalKnowledge": "Refer to T-Shape",
+                      "qualifications": [
+                        "Bachelor's degree in computer science or equivalent",
+                        "13+ years of relevant experience including 7 to 8 years in a senior software engineering role"
+                      ]
                     }
                   },
 
                   {
                     "title": "Principal Software Engineer P3",
                     "description": {
-                      "function": "",
-                      "subFunction": "",
-                      "reportsTo": "",
-                      "jobPurpose": "",
-                      "keyAccountAbilities": "",
-                      "coreCompetencies": "",
-                      "functionCompetencies": "",
-                      "coreSkills": "",
-                      "technicalKnowledge": "",
-                      "qualifications": ""
+                      "function": "Global Services/DoZen",
+                      "subFunction": "Software Development",
+                      "reportsTo": "Program Manager/Technical Lead",
+                      "jobPurpose": "Manage large and complex solutions and projects; ensure the execution of software development life cycle of applications and programs (installation; configuration; deployment; analyzing; documenting; coding/development; and unit testing) as well as acting as the technical lead and managing other software engineers assigned to projects",
+                      "keyAccountAbilities": [
+                        "Interpret the customer requirements into deliverables (code; installation of a system; deployment. … etc) and ensure they are well mapped with the requirements",
+                        "Manage the time estimation of projects while following the project plan and timeline as well as the organization processes and standards",
+                        "Manage and ensure the execution of the software lifecycle following the agreed on methodology (might execute when needed and as per the project needs)",
+                        "Manage and ensure the delivery of the code as per the agreed on technology stack while following the coding and security guidelines (might execute when needed and as per the project needs)",
+                        "Manage and ensure the creation and execution of unit test cases (might execute when needed and as per the project needs)",
+                        "Ensure the documentation of the code (might document when needed and as per the project needs)",
+                        "Conduct code review for junior and senior engineers",
+                        "Create the project architecture and design in collaboration with the technical architect",
+                        "Ensure the creation of application specifications and guidelines",
+                        "Integrate software components into a fully functional software system",
+                        "Collaborate with the testing team in developing software verification plans and quality assurance procedures",
+                        "Support the testing team and supervise and guide the technical team across the project lifecycle",
+                        "Represent the development team in the communication with customers throughout the project lifecycle",
+                        "Manage the solution deployment",
+                        "Conduct UAT with the customer (upon assignment from the project manager)",
+                        "Fix nonconformities resulting from engineering processes audit and architecture audit",
+                        "Report work progress; technical issues; risks; and changes in delivery dates to the technical lead and the project manager",
+                        "Participate in the hiring process of technical team members",
+                        "Additional accountabilities in case of full stack/frontend assignment:",
+                        "Manage and ensure the conversion of visual screens to UI elements for any portal or application (might execute when needed and as per the project needs)",
+                        "Manage and ensure the creation of prototypes using UI technologies (might execute when needed and as per the project needs)"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "Collaboration: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Agility: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Lifelong Learning: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Customer Focus: Level 2",
+                          "link": "/competencies"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "Analytical Mindset: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Drive For Results: Level 2",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Innovation: Level 3",
+                          "link": "/competencies"
+                        }                   
+                      ],
+                      "coreSkills": [
+                        "Communication skills",
+                        "Presentation skills",
+                        "Problem solving skills",
+                        "Agility",
+                        "Teamwork",
+                        "Leadership"
+                      ],
+                      "technicalKnowledge": "Refer to T-Shape",
+                      "qualifications": [
+                        "Bachelor's degree in computer science or equivalent",
+                        "15+ years of relevant experience including 8 to 9 years in a senior software engineering role"
+                      ]
                     }
                   },
 
                   {
                     "title": "Technical Consultant",
                     "description": {
-                      "function": "",
-                      "subFunction": "",
-                      "reportsTo": "",
-                      "jobPurpose": "",
-                      "keyAccountAbilities": "",
-                      "coreCompetencies": "",
-                      "functionCompetencies": "",
-                      "coreSkills": "",
-                      "technicalKnowledge": "",
-                      "qualifications": ""
+                      "function": "Global Services/DoZen",
+                      "subFunction": "Software Development",
+                      "reportsTo": "Program Manager/Technical Lead",
+                      "jobPurpose": "Manage large and complex solutions and projects; act as an internal consultant for the delivery team by providing technical recommendations and support as well as an external consultant designing new solutions for customers.",
+                      "keyAccountAbilities": [
+                        "Design new ideas and technical solutions for large scale solutions and programs",
+                        "Manage the time estimation of projects while following the project plan and timeline as well as the organization processes and standards",
+                        "Create the project architecture and design in collaboration with the technical architect",
+                        "Act as an internal expert supporting the project delivery team and an external consultant supporting customers by providing technical recommendations on methods and technologies used in application design and development",
+                        "Anticipate and resolve complex problems that affect the design of current and developing solutions",
+                        "Act as an expert or technical reference in one or more technologies",
+                        "Analyze software development processes and suggest and implement enhancements",
+                        "Analyze business processes to identify inefficiencies and recommend solutions",
+                        "Participate in the hiring process of the technical team members"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "Collaboration: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Agility: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Lifelong Learning: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Customer Focus: Level 3",
+                          "link": "/competencies"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "Analytical Mindset: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Drive For Results: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Innovation: Level 3",
+                          "link": "/competencies"
+                        }                   
+                      ],
+                      "coreSkills": [
+                        "Communication skills",
+                        "Presentation skills",
+                        "Problem solving skills",
+                        "Agility",
+                        "Teamwork",
+                        "Leadership",
+                        "Strategic Thinking",
+                        "Influencing Skills"
+                      ],
+                      "technicalKnowledge": "Refer to T-Shape",
+                      "qualifications": [
+                        "Bachelor's degree in computer science or equivalent",
+                        "17+ years of relevant experience including 9 to 10 years in the same position or architect"
+                      ]
                     }
                   },
 
                   {
                     "title": "Senior Technical Consultant",
                     "description": {
-                      "function": "",
-                      "subFunction": "",
-                      "reportsTo": "",
-                      "jobPurpose": "",
-                      "keyAccountAbilities": "",
-                      "coreCompetencies": "",
-                      "functionCompetencies": "",
-                      "coreSkills": "",
-                      "technicalKnowledge": "",
-                      "qualifications": ""
+                      "function": "Global Services/DoZen",
+                      "subFunction": "Software Development",
+                      "reportsTo": "Program Manager/Technical Lead",
+                      "jobPurpose": "Manage large and complex solutions and projects; act as an internal consultant for the delivery team by providing technical recommendations and support as well as an external consultant designing new solutions for customers.",
+                      "keyAccountAbilities": [
+                        "Design new ideas and technical solutions for large scale solutions and programs",
+                        "Manage the time estimation of projects while following the project plan and timeline as well as the organization processes and standards",
+                        "Create the project architecture and design in collaboration with the technical architect",
+                        "Act as an internal expert supporting the project delivery team and an external consultant supporting customers by providing technical recommendations on methods and technologies used in application design and development",
+                        "Anticipate and resolve complex problems that affect the design of current and developing solutions",
+                        "Act as an expert or technical reference in one or more technologies",
+                        "Analyze software development processes and suggest and implement enhancements",
+                        "Analyze business processes to identify inefficiencies and recommend solutions",
+                        "Participate in the hiring process of the technical team members"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "Collaboration: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Agility: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Lifelong Learning: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Customer Focus: Level 3",
+                          "link": "/competencies"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "Analytical Mindset: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Drive For Results: Level 3",
+                          "link": "/competencies"
+                        },
+
+                        {
+                          "name": "Innovation: Level 3",
+                          "link": "/competencies"
+                        }                   
+                      ],
+                      "coreSkills": [
+                        "Communication skills",
+                        "Presentation skills",
+                        "Problem solving skills",
+                        "Agility",
+                        "Teamwork",
+                        "Leadership",
+                        "Strategic Thinking",
+                        "Influencing Skills"
+                      ],
+                      "technicalKnowledge": "Refer to T-Shape",
+                      "qualifications": [
+                        "Bachelor's degree in computer science or equivalent",
+                        "20+ years of relevant experience including 10+ years in the same position or architect"
+                      ]
                     }
                   }
               ]
