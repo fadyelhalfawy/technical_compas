@@ -1,0 +1,347 @@
+{
+    "competencies": [
+        {
+            "name": "collaboration",
+            "levels": [
+                {
+                            "competency": "Collaboration",
+                            "level": "Level 1",
+                            "definition": "Developing and using collaborative relationships to facilitate the accomplishment of work goals",
+                            "overview": "Commits to working with others on accomplishing tasks & duties; understands own & others’ roles; and open to team discussions.",
+                            "behavioral": [
+                                "Deal honestly & fairly with others showing consideration & respect.",
+                                "Be committed to his share in of the work.",
+                                "Promptly assist other team members & involve them.",
+                                "Share all relevant or useful information with other team members.",
+                                "Accept additional responsibilities to facilitate the achievement of team goals.",
+                                "Collaborate with others when doing tasks.",
+                                "Seek for assistance from others if needed."
+                            ]
+                },
+
+                {
+                            "competency": "Collaboration",
+                            "level": "Level 2",
+                            "definition": "Developing and using collaborative relationships to facilitate the accomplishment of work goals",
+                            "overview": "Leads effective teams; assigns tasks & controls outcome while maintaining team harmony",
+                            "behavioral": [
+                                "Foster teamwork & team spirit.",
+                                "Maintain & enhance self-esteem of others in all communications with team members",
+                                "Give credit & acknowledges contributions & efforts of other team members.",
+                                "Make additional efforts to support and assist team members.",
+                                "Encourage other team members to participate & facilitates when appropriate.",
+                                "Create a team spirit by speaking positively of others",
+                                "Be relied upon to make contributions of value to the team",
+                                "Be viewed as a valued team member.",
+                                "Recognize and manage the individual social styles of the team members."
+                            ]
+                },
+
+                {
+                            "competency": "Collaboration",
+                            "level": "Level 3",
+                            "definition": "Developing and using collaborative relationships to facilitate the accomplishment of work goals",
+                            "overview": "Promotes for teamwork & coordinates efforts of multiple teams to effectively achieve organizational goals.",
+                            "behavioral": [
+                                "Facilitate collaboration; sharing & transferring of expertise & resources between teams to achieve overall company goal.",
+                                "Actively support and contribute to the efforts of other team members.",
+                                "Promote agendas that support the organization's goals.",
+                                "Share all relevant information and pass on additional information that may be important to other team members.",
+                                "Create & contribute to cross functional teams to solve problems.",
+                                "Build bridges between teams.",
+                                "Create opportunities for groups to work together.",
+                                "Be flexible and work with a wide variety of different people on different tasks."
+                            ]
+                }
+            
+            ]
+                },
+
+                {
+                    "name": "agility",
+                    "levels": [
+                {
+                            "competency": "Agility",
+                            "level": "Level 1",
+                            "definition": "Maintaining effectiveness when experiencing major changes in work tasks or the work environment; adjusting effectively to work within new work structures; processes; requirements; or cultures" ,
+                            "overview": "Follows direction to adjust and complete plans; tasks; and goals & responds positively to change.",
+                            "behavioral": [
+                                "Adjust tasks based on feedback and workload priorities.",
+                                "Recognize the need to adapt & Change own behavior or approach to suit the situation",
+                                "Try & do things differently.",
+                                "Display a positive attitude in the face of ambiguity and change."
+                            ]
+                },
+
+                {
+                            "competency": "Agility",
+                            "level": "Level 2",
+                            "definition": "Maintaining effectiveness when experiencing major changes in work tasks or the work environment; adjusting effectively to work within new work structures; processes; requirements; or cultures",
+                            "overview": "Completes tasks & assignments while setting for possible changes and adjusts practice in response to change.",
+                            "behavioral": [
+                                "Realign resources to meet changing customer needs.",
+                                "Take feedback into consideration while implementing change.",
+                                "Flexibly apply rules or procedures; while remaining guided by the organization's values.",
+                                "Adapt to new ideas & initiatives across a wide variety of issues or situations.",
+                                "Support & adapt to changes that challenge traditional ways of operating through shifting ways of working; goals; & initiatives."
+                            ]
+                },
+
+                {
+                            "competency": "Agility",
+                            "level": "Level 3",
+                            "definition": "Maintaining effectiveness when experiencing major changes in work tasks or the work environment; adjusting effectively to work within new work structures; processes; requirements; or cultures",
+                            "overview": "Predicts need for change and sets strategies to account for opportunities & threats.",
+                            "behavioral": [
+                                "Implement successful action plans after a major organizational change.",
+                                "Prioritize; consider alternatives; & respond quickly & effectively to unexpected & rapid changes.",
+                                "Predict change and adapt plans and priorities accordingly.",
+                                "Adjust behavior; organizational strategic directions; priorities; structures & processes to changing needs in the environment.",
+                                "Anticipate and capitalizes on emerging opportunities & risks"
+                            ]
+                }
+            
+            ]
+                },
+
+                {
+                    "name": "lifelong",
+                    "levels": [
+                {
+                            "competency": "Lifelong Learning",
+                            "level": "Level 1",
+                            "definition": "Actively identifying new areas for learning; regularly creating and taking advantage of learning opportunities; using newly gained knowledge and skill on the job and learning through their application." ,
+                            "overview": "Seeks learning opportunities; open to new ideas & reflects on performing.",
+                            "behavioral": [
+                                "Seek & take advantage of learning opportunities provided.",
+                                "Reflect on completed activities; identifying what worked well; what didn't; and how. to improve own performance.",
+                                "Request additional feedback to clarify learning needs.",
+                                "Seek coaching in areas where rapidly evolving."
+                            ]
+                },
+
+                {
+                            "competency": "Lifelong Learning",
+                            "level": "Level 2",
+                            "definition": "Actively identifying new areas for learning; regularly creating and taking advantage of learning opportunities; using newly gained knowledge and skill on the job and learning through their application." ,
+                            "overview": "Coordinates learning to reach goals & reflects lessons learned into standards/processes.",
+                            "behavioral": [
+                                "Initiate and own the individual development plan.",
+                                "Gather information from varied sources to identify own strengths and weaknesses in current position.",
+                                "Pursue challenging experiences beyond customary role or area of expertise to add value in current area.",
+                                "Set/assist in setting learning & development plans for team members to fill operational gaps."
+                            ]
+                },
+
+                {
+                            "competency": "Lifelong Learning",
+                            "level": "Level 3",
+                            "definition": "Actively identifying new areas for learning; regularly creating and taking advantage of learning opportunities; using newly gained knowledge and skill on the job and learning through their application." ,
+                            "overview": "Promotes for organizational learning; strategizes learning experiences & sets as a critical performance area",
+                            "behavioral": [
+                                "Focus learning on future needs and strategic priorities.",
+                                "Continuously scan environment to keep abreast of emerging developments in the broader work context.",
+                                "Undertake development opportunities to meet future organizational needs beyond own area.",
+                                "Set learning & development plans to fill operational gaps.",
+                                "Identify and assesses learning gaps in team."
+                            ]
+                }
+            
+            ]
+                },
+
+                {
+                    "name": "customer",
+                    "levels": [
+                {
+                            "competency": "Customer Focus",
+                            "level": "Level 1",
+                            "definition": "Making customers and their needs a primary focus of one’s actions; developing and sustaining productive customer relationships." ,
+                            "overview": "Prioritizes client requests and operations that may influence customer excellency",
+                            "behavioral": [
+                                "Actively seek understanding of key client and stakeholder needs.",
+                                "Persist in finding answers to inquiries by asking questions; searching for information; or escalating issues as appropriate.",
+                                "Ensure that clients have a positive experience in their dealings with ITWorx.",
+                                "Reach out to provide useful advice and expertise or to distribute helpful information.",
+                                "Research and ask for information on customer goals and operations."
+                            ]
+                },
+
+                {
+                            "competency": "Customer Focus",
+                            "level": "Level 2",
+                            "definition": "Making customers and their needs a primary focus of one’s actions; developing and sustaining productive customer relationships." ,
+                            "overview": "Evaluates and adapts to client needs and fosters a client-focused culture",
+                            "behavioral": [
+                                "Deliver solutions that meet clients’ needs.; coach & educate his team on customer centricity while being a role model.",
+                                "Act beyond normal expectations to create new; innovative solutions for to support customer needs.",
+                                "Ask customers & stakeholders for feedback & suggestions to ensure their input is valuable in the development & evaluation of products; services & programs.",
+                                "Act quickly and constructively to make improvements or mitigate risks based on customer and stakeholder feedback.",
+                                "Help customers & stake holders see the ‘bigger picture’ in the context of their needs and issues."
+                            ]
+                },
+
+                {
+                            "competency": "Customer Focus",
+                            "level": "Level 3",
+                            "definition": "Making customers and their needs a primary focus of one’s actions; developing and sustaining productive customer relationships." ,
+                            "overview": "Considers the strategic direction of client focus",
+                            "behavioral": [
+                                "Use a long-term strategic perspective in defining customer & stakeholder needs & provide them with long term benefits; Adjusts approach accordingly.",
+                                "Utilize information and understanding of the client’s business needs to foresee issues and opportunities which may impact relation with clients.",
+                                "Create the processes and mechanisms to solicit and respond to customer & stakeholder's feedback.",
+                                "Promote cross-team collaboration and partnering to address changing needs of customers and stakeholders.",
+                                "Identify client relationship risks and proposes mitigation strategies."
+                            ]
+                }
+            
+            ]
+                },
+
+                {
+                    "name": "analytical",
+                    "levels": [
+                {
+                            "competency": "Analytical Mindset",
+                            "level": "Level 1",
+                            "definition": "Using logic; reasoning; and analysis to address problems." ,
+                            "overview": "Analyses and synthesizes information and sees some relationships",
+                            "behavioral": [
+                                "Break down problems into simple lists of tasks or activities.",
+                                "Gather inputs from appropriate sources of information.",
+                                "Identify the links between situations and information.",
+                                "See & identify the potential effect of connections; patterns or trends in the information available.",
+                                "Draw logical conclusions; providing options and recommendations."
+                            ]
+                },
+
+                {
+                            "competency": "Analytical Mindset",
+                            "level": "Level 2",
+                            "definition": "Using logic; reasoning; and analysis to address problems." ,
+                            "overview": "Analyses complex relationships and applies broad analysis",
+                            "behavioral": [
+                                "Systematically use several techniques to break down complex problems or processes into component parts to reach a solution.",
+                                "Recognize and assess several likely causal factors or ways of interpreting the information available.",
+                                "Identify connections between situations that are not obviously related.",
+                                "Integrate information from diverse sources; often involving large amounts of information.",
+                                "Think several steps ahead in deciding on best course of action; anticipating likely outcomes."
+                            ]
+                },
+
+                {
+                            "competency": "Analytical Mindset",
+                            "level": "Level 3",
+                            "definition": "Using logic; reasoning; and analysis to address problems.",
+                            "overview": "Applies a whole systems perspective to analysis.",
+                            "behavioral": [
+                                "Critically evaluate & analyse complex business information from differing & multiple perspectives to make strategic & impactful decisions.",
+                                "Identify multiple relationships & disconnects in processes in order to identify options & reach conclusions to act upon.",
+                                "Adopt a whole systems perspective; assessing & balancing vast amounts of diverse information on the varied systems & sub- systems that comprise and affect the working environment.",
+                                "Balance multiple perspectives when setting direction or reaching conclusions (e.g.; social; economic; partner; stakeholder interests; short- and long-term benefits; national and global implications).",
+                                "Support the team to utilise critical and analytical thinking through role modelling and utilising knowledge of problem-solving techniques."
+                            ]
+                }
+            
+            ]
+                },
+
+                {
+                    "name": "innovation",
+                    "levels": [
+                {
+                            "competency": "Innovation",
+                            "level": "Level 1",
+                            "definition": "Using logic; reasoning; and analysis to address problems." ,
+                            "overview": "Acknowledges need to modify current methods; seek new approaches and aligns own work to organizational goals",
+                            "behavioral": [
+                                "Be willing to do things differently.",
+                                "Constructively question current practices and processes.",
+                                "Think about problems from a new perspective; Demonstrates curiosity digging for information below the surface",
+                                "Suggest improvements to current approaches",
+                                "Develop business cases/proofs of concepts for creative ideas under supervision"
+                            ]
+                },
+
+                {
+                            "competency": "Innovation",
+                            "level": "Level 2",
+                            "definition": "Using logic; reasoning; and analysis to address problems." ,
+                            "overview": "Introduces and creates new approaches; aligns program / operational goals; and helps to influence strategic direction",
+                            "behavioral": [
+                                "Modify current approaches to better meet needs.",
+                                "Create new ideas; solutions; or approaches to ongoing challenges.",
+                                "Use unconventional areas as sources of inspiration and insight into new options and solutions.",
+                                "Solve complex problems through developing new explanations or applications & takes it into action.",
+                                "Motivate teams to come with ideas; review; document the ideas and report relevant creative ideas & Expand on the thinking or solutions proposed by others."
+                            ]
+                },
+
+                {
+                            "competency": "Innovation",
+                            "level": "Level 3",
+                            "definition": "Using logic; reasoning; and analysis to address problems.",
+                            "overview": "Nurtures creativity in others and develops vision",
+                            "behavioral": [
+                                "Create new concepts; innovations of the ones that have wide ranging impacts on policy or program.",
+                                "Identify unique approaches to deal with situations for which no known precedent exists.",
+                                "Provide expert; insight into problem to assist others in researching and creating new approaches.",
+                                "Sponsor experimentation to maximize potential for innovation & encourage challenges to conventional approaches.",
+                                "Support others in generation new and innovative approaches; (e.g.; by providing resources) building on new ideas recognizing innovation."
+                            ]
+                }
+            
+            ]
+                },
+
+                {
+                    "name": "drive",
+                    "levels": [
+                {
+                            "competency": "Drive For Results",
+                            "level": "Level 1",
+                            "definition": "Support on organizational success by establishing challenging yet achievable performance goals; aligning systems and processes to deliver on ITWorx’s goals.",
+                            "overview": "Defines realistic outputs; responsibilities & expected results in the context of the Department/Division’s goals. Delivers expected results.",
+                            "behavioral": [
+                                "Define ambitious; but realistic; personal goals as well promptly and efficiently complete work assignments.",
+                                "Take actions that lead to the achievement of set targets/goals & overcomes obstacles to achieving goals and uses failure as an opportunity to learn.",
+                                "Keep track of and measure outcomes against own standards; over and above those set by others.",
+                                "Help others to find ways of delivering services that will better serve the needs of customers while meeting job targets.",
+                                "Seek guidance and feedback on his/her performance & acts accordingly to improve the results achieved"
+                            ]
+                },
+
+                {
+                            "competency": "Drive For Results",
+                            "level": "Level 2",
+                            "definition": "Support on organizational success by establishing challenging yet achievable performance goals; aligning systems and processes to deliver on ITWorx’s goals." ,
+                            "overview": "Sets realistic targets for self & team; ensures availability of resources & supports team in achieving results. Evaluates achievements & integrates lessons learned.",
+                            "behavioral": [
+                                "Monitor and measure progress in attaining results within established objectives and target dates and provide regular and effective feedback to staff & identify areas of improvement & lessons learned.",
+                                "Hold self and others accountable for measurable; high quality; timely and cost effective deliverables.",
+                                "Set realistic targets for the team in line with the overall strategy & goals.",
+                                "Ensure the availability of resources and support needed by staff members to achieve results & takes new initiatives aimed at improving team performance.",
+                                "Demonstrate the ability to challenge existing practices in order to become more effective."
+                            ]
+                },
+
+                {
+                            "competency": "Drive For Results",
+                            "level": "Level 3",
+                            "definition": "Support on organizational success by establishing challenging yet achievable performance goals; aligning systems and processes to deliver on ITWorx’s goals." ,
+                            "overview": "Sets the overall direction for the departmental/Divisional goals; & promotes a results-based management culture that focuses on the achievement of programme results.",
+                            "behavioral": [
+                                "Set the overall direction for Department/ Account / Program goals in line with ITWorx’s mandate and priorities; as well create and promote a results-based management culture that is focused on the achievement of outputs with highest quality.",
+                                "Work toward identifying company-wide efficiencies and best practices in support of strengthening ITWorx’s capacity to achieve results.",
+                                "Establish systems and processes to monitor and evaluate performance progress.",
+                                "Prepare to challenge others and address poor performance where this is impacting on effective service delivery.",
+                                "Show a high level of self-reflection in recognizing and evaluating the achievement of results down to the individual levels.",
+                                "Take calculated risks; based on learning and experience; to achieve longer-term service improvements."
+                            ]
+                }
+            
+            ]
+                }
+          
+        ]
+    }
