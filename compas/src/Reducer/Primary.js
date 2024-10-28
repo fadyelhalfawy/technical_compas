@@ -1,45 +1,40 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import Departement from './Departement';
+import Practice from './Practice';
+import Title from './Title';
 
 const Primary = ({ 
     Departments, selectedPrimaryDepartment, primaryDepartment, primaryPractice,
      primaryPractices, selectedPrimaryPractice, primaryTitle, primaryTitles,
-      selectedPrimaryTitle, handleDepartment, handlePractice, handleTitle }) => {
+      selectedPrimaryTitle, handleDepartment, handlePractice, handleTitle, handleCompetencies }) => {
 
   return (
     <div className="space-y-4">
-        <select id="department" className="w-full border-2 rounded p-2" value={primaryDepartment} onChange={handleDepartment}>
-          <option value="">Select Department</option>
-          {Departments.map((department, index) => (
-            <option key={index} value={department.name}>
-              {department.name}
-            </option>
-          ))}
-        </select>
+        <Departement 
+            department={primaryDepartment}
+            handleDepartment={handleDepartment}
+            Departments={Departments}
+        />
 
         {selectedPrimaryDepartment && (
             <div className='border border-2 p-3'>
-                <select id="practice" className="w-full border-2 rounded p-2" value={primaryPractice} onChange={handlePractice}>
-                <option value="">Select Practice</option>
-                {primaryPractices.map((practice, index) => (
-                <option key={index} value={practice.name}>
-                {practice.name}
-              </option>
-            ))}
-          </select>
+                <Practice 
+                    practice={primaryPractice}
+                    handlePractice={handlePractice}
+                    practices={primaryPractices}
+                />
             </div>
           
       )}
 
       {selectedPrimaryPractice && (
         <div className='border border-2 p-3'>
-        <select id="title" className="w-full border-2 rounded p-2" value={primaryTitle} onChange={handleTitle}>
-          <option value="">Select Title</option>
-          {primaryTitles.map((title, index) => (
-            <option key={index} value={title.title}>
-              {title.title}
-            </option>
-          ))}
-        </select>
+            <Title 
+                titles={primaryTitles}
+                title={primaryTitle}
+                handleTitle={handleTitle}
+            />
         </div>
         
       )}
@@ -76,7 +71,9 @@ const Primary = ({
         <strong>Key Accountabilities and decision ownership:</strong>
         <ul className='list-disc list-inside space-y-2 text-gray-500 my-4 pl-2'>
             {selectedPrimaryTitle.description.keyAccountAbilities.map((item, index) => (
-            <li key={index}>{item}</li>
+            <li key={index}>
+                {item}
+              </li>
           ))}
         </ul>
     </div>
@@ -86,9 +83,12 @@ const Primary = ({
         <ul className='list-disc list-inside space-y-2 text-blue-600 my-4 pl-2'>
             {selectedPrimaryTitle.description.coreCompetencies.map((item, index) => (
             <li key={index}>
-                <a href={item.link} target='_blank' rel='noreferrer'>
+                <Link
+                to={item.link}
+                onClick={handleCompetencies}
+                >
                     {item.name}
-                </a>
+                </Link>
             </li>
             ))}
         </ul>
@@ -99,9 +99,12 @@ const Primary = ({
         <ul className='list-disc list-inside space-y-2 text-blue-600 my-4 pl-2'>
             {selectedPrimaryTitle.description.functionCompetencies.map((item, index) => (
             <li key={index}>
-                <a href={item.link} target='_blank' rel='noreferrer'>
+                <Link
+                    to={item.link}
+                    onClick={handleCompetencies}
+                   >
                     {item.name}
-                </a>
+                </Link>
             </li>
         ))}
         </ul>
@@ -119,9 +122,9 @@ const Primary = ({
     <div className='pl-2'>
         <strong>Technical Knowledge:</strong>
         <p className='my-4 text-blue-600 pl-2 underline'>
-        <a href='www.google.com' target='_blanck' rel='noreferrer'>
+        <Link to={'/tshape'} target='blank'>
             {selectedPrimaryTitle.description.technicalKnowledge}
-            </a>
+            </Link>
             </p>
     </div>
 
