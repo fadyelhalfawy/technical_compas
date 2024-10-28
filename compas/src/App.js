@@ -1,17 +1,18 @@
 import './App.css';
-import DepartmentSelector from './Reducer/DepartmentSelector';
-import Footer from './Reducer/Footer';
-import Navbar from './Reducer/NavBar';
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import TShape from './Pages/TShape';
+import Home from './Pages/Home';
+import Competencies from './Pages/Competencies';
 
 function App() {
   return (
-    <div className="App">
-      <Navbar />
-      <main>
-        <DepartmentSelector />
-      </main>
-      <Footer />
-    </div>
+    <Router>
+        <Routes>
+          <Route path={'/'} element={<Home />} />
+          <Route path='/competencies' element={<Competencies />} />
+          <Route path={'/tshape'} element={<TShape />} />
+        </Routes>
+    </Router>
   );
 }
 
