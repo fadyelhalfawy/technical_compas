@@ -10,9 +10,9 @@ const Primary = ({
      primaryPractices, selectedPrimaryPractice, primaryTitle, primaryTitles,
       selectedPrimaryTitle, handleDepartment, handlePractice, handleTitle, handleCompetencies }) => {
 
-        const navigate = useNavigate();
+    const navigate = useNavigate();
 
-  const handleTshape = (e) => {
+    const handleTshape = (e) => {
     e.preventDefault();
 
     navigate('/tshape', {
