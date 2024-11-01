@@ -3,11 +3,22 @@ import { Link } from 'react-router-dom';
 import Departement from './Departement';
 import Practice from './Practice';
 import Title from './Title';
+import { useNavigate  } from 'react-router-dom';
 
 const Secondary = ({ 
     Departments, secondaryDepartment, selectedSecondaryDepartment, secondaryPractice, secondaryPractices,
     selectedSecondaryPractice, secondaryTitle, secondaryTitles, selectedSecondaryTitle, handleDepartment,
     handlePractice, handleTitle, handleCompetencies }) => {
+
+      const navigate = useNavigate();
+
+      const handleTshape = (e) => {
+        e.preventDefault();
+    
+        navigate('/tshape', {
+            state: { selectedTable: secondaryPractice, selectedTitle: secondaryTitle },
+          });
+      }
 
   return (
     <div className="space-y-4">
@@ -121,7 +132,7 @@ const Secondary = ({
     <div className='pl-2'>
         <strong>Technical Knowledge:</strong>
         <p className='my-4 text-blue-600 pl-2 underline'>
-            <Link to='/tshape' target='_blank'> 
+            <Link to='/tshape' onClick={handleTshape} target='_blank'> 
             {selectedSecondaryTitle.description.technicalKnowledge}
                 </Link>
                 </p>
