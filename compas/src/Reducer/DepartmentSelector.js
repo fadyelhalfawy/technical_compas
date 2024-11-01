@@ -15,8 +15,6 @@ const DepartmentSelector = () => {
 
     const navigate = useNavigate();
 
-    // const [data, setData] = useState("");
-
     const handlePrimaryDepartmentChange = (e) => {
         setprimaryDepartment(e.target.value);
         setprimaryPractice("");
@@ -59,20 +57,7 @@ const handleCompetencies = (e) => {
   navigate('/competencies', {
     state: { competencie: competencies , level: level },
   });
-
-  
 };
-
-// const fetchData = () => {
-//   if (selectedPrimaryDepartment && selectedPrimaryPractice && selectedPrimaryTitle) {
-//     fetch(`/api/data?practice=${selectedPrimaryPractice}&Title=${selectedPrimaryTitle}`)
-//       .then(response => response.json())
-//       .then(data => setData(data))
-//       .catch(error => console.error('Error fetching data:', error));
-//   } else {
-//     alert('Please make all selections');
-//   }
-// };
 
   const Departments = jsonData.departments;
   const selectedPrimaryDepartment = Departments.find(dep => dep.name === primaryDepartment);
@@ -108,7 +93,6 @@ const handleCompetencies = (e) => {
                 handlePractice={handlePrimaryPracticeChange}
                 handleTitle={handlePrimaryTitleChange}
                 handleCompetencies={handleCompetencies}
-                // fetchData={fetchData}
             />
 
             <Secondary 
