@@ -17,7 +17,7 @@ const Competencies = () => {
         <>
         <Navbar />
         <main>
-            <div className="max-w-full overflow-x-auto p-24">
+            <div className="max-w-full overflow-x-auto p-14">
                 <h1 className='text-center text-4xl font-semibold mb-4'>Competencies</h1>
                 <h2 className="text-2xl font-bold mb-4">{selectedLevel.competency} - {level}</h2>
                 <table className="min-w-full border-collapse border border-gray-300 text-left">
