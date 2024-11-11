@@ -1,5 +1,5 @@
 import React from 'react';
-import itworx from '../Images/ITWorx White Logo.png';
+import itworx from '../images/ITWorx White Logo.png';
 
 const Navbar = () => {
   const menuItems = 'Technical Career Compass';

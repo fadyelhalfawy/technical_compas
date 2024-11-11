@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import jsonData from '../JSON/kb_itworx.json';
+import jsonData from '../data/kb_itworx.json';
 import Primary from './Primary';
 import Secondary from './Secondary';
 import { useNavigate  } from 'react-router-dom';
@@ -50,7 +50,7 @@ const handleCompetencies = (e) => {
 
   const text = e.target.textContent;
   const competencies = text.split(/[\s:]/)[0];
-
+  
   const match = text.match(/[1-3]/);
   const level = `Level ${match ? parseInt(match[0], 10) : "Unknown"}`;
     
@@ -59,14 +59,14 @@ const handleCompetencies = (e) => {
   });
 };
 
-  const Departments = jsonData.departments;
-  const selectedPrimaryDepartment = Departments.find(dep => dep.name === primaryDepartment);
+  const departments = jsonData.departments;
+  const selectedPrimaryDepartment = departments.find(dep => dep.name === primaryDepartment);
 
   const primaryPractices = selectedPrimaryDepartment ? selectedPrimaryDepartment.practices : [];
   const selectedPrimaryPractice = primaryPractices.find(prac => prac.name === primaryPractice);
-
+  
   const primaryTitles = selectedPrimaryPractice ? selectedPrimaryPractice.titles : [];
-  const selectedPrimaryTitle = primaryTitles.find(title => title.title === primaryTitle);
+  const selectedPrimaryTitle = primaryTitles.find(title => title.name === primaryTitle);
 
   const selectedSecondaryDepartment = jsonData.departments.find(dep => dep.name === secondaryDepartment);
   
@@ -74,13 +74,13 @@ const handleCompetencies = (e) => {
   const selectedSecondaryPractice = secondaryPractices.find(prac => prac.name === secondaryPractice);
   
   const secondaryTitles = selectedSecondaryPractice ? selectedSecondaryPractice.titles : [];
-  const selectedSecondaryTitle = secondaryTitles.find(title => title.title === secondaryTitle);
+  const selectedSecondaryTitle = secondaryTitles.find(title => title.name === secondaryTitle);
   
   return (
     <div className="p-6">
         <div className='grid grid-cols-1 md:grid-cols-2 gap-4'>
             <Primary 
-                Departments={Departments}
+                departments={departments}
                 selectedPrimaryDepartment={selectedPrimaryDepartment}
                 primaryDepartment={primaryDepartment}
                 primaryPractices={primaryPractices}
@@ -96,7 +96,7 @@ const handleCompetencies = (e) => {
             />
 
             <Secondary 
-                Departments={Departments}
+                departments={departments}
                 selectedSecondaryDepartment={selectedSecondaryDepartment}
                 secondaryDepartment={secondaryDepartment}
                 secondaryPractices={secondaryPractices}
