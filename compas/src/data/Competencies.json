@@ -295,6 +295,150 @@
                 },
 
                 {
+                    "name": "quality",
+                    "levels": [
+                {
+                            "competency": "Quality First",
+                            "level": "Level 1",
+                            "definition": "Conduct oneself in a professional manner and exhibit high levels of professionalism in all contexts and situations." ,
+                            "overview": "Sets quality expectations & standards to govern achievement of goals; Ensures performing within standards & provides feedback to highlight; improve & maintain consistency of quality.",
+                            "behavioral": [
+                                "Support team members in achieving the highest level of accuracy while coaching and enabling them if needed.",
+                                "Exemplify positive service behaviours and promote a culture focused on ensuring needs are met.",
+                                "Establish how the department compares to service expectations and industry best practice and identify necessary improvements in plans.",
+                                "Make clear; pragmatic and manageable plans for service delivery using programme and project management disciplines.",
+                                "Ensure the service offer thoroughly considers customers’ needs and a broad range of available methods to meet this; including new technology where relevant.",
+                                "Ensure adherence to legal; regulatory and security requirements; performance in service delivery."
+                            ]
+                },
+
+                {
+                    "competency": "Quality First",
+                    "level": "Level 2",
+                    "definition": "Conduct oneself in a professional manner and exhibit high levels of professionalism in all contexts and situations." ,
+                    "overview": "Sets quality expectations & standards to govern achievement of goals; Ensures performing within standards & provides feedback to highlight; improve & maintain consistency of quality.",
+                    "behavioral": [
+                        "Support team members in achieving the highest level of accuracy while coaching and enabling them if needed.",
+                        "Exemplify positive service behaviours and promote a culture focused on ensuring needs are met.",
+                        "Establish how the department compares to service expectations and industry best practice and identify necessary improvements in plans.",
+                        "Make clear; pragmatic and manageable plans for service delivery using programme and project management disciplines.",
+                        "Ensure the service offer thoroughly considers customers’ needs and a broad range of available methods to meet this; including new technology where relevant.",
+                        "Ensure adherence to legal; regulatory and security requirements; performance in service delivery."
+                    ]
+        },
+
+        {
+            "competency": "Quality First",
+            "level": "Level 3",
+            "definition": "Conduct oneself in a professional manner and exhibit high levels of professionalism in all contexts and situations." ,
+            "overview": "Promotes result orientation & standardised operations at an organisational level.",
+            "behavioral": [
+                "Pave the road for the team to ensure that their output is being delivered with the highest level of quality.",
+                "Ensure an in-depth and evolving understanding of the broad range of customer/stake holder requirements.",
+                "Determine and drive customer service outcomes at a broad strategic level and work across the company to ensure delivery of professional excellence and expertise to customers.",
+                "Ensure all parts of the delivery chain fully understand the required outcomes for the customer and articulate the impact of poor service; security and communication on the department’s reputation.",
+                "Create a culture of working with and through delivery partners to achieve outcomes; establish and negotiate service levels and deliverables.",
+                "Define and integrate clear structures; systems and resources required across the Department to promote efficient service delivery."
+            ]
+}     
+            ]
+                },
+
+                {
+                    "name": "business",
+                    "levels": [
+                        {
+                            "competency": "Business Savvy",
+                            "level": "Level 1",
+                            "definition": "Using economic; financial; market; and industry data to understand and improve business results; using one’s understanding of major business functions; industry trends; and own organization’s position to contribute to effective business strategies and tactics" ,
+                            "overview": "Acts upon research & analysis of economic & industry trends; reflects on the business model to support competitiveness.",
+                            "behavioral": [
+                                "Know what differentiates ITWorx from others in the sector & understand ITWorx’s unique value proposition.",
+                                "Understand and act on market dynamics and trends that affect the business.",
+                                "Be aware of competition and its related risks and takes action.",
+                                "Manage internal expectations and keep all parties informed of developments; ensure best negotiation practice in terms of preparation; approach; strategy; tactics; and style.",
+                                "Lead fact-based decision-making for long-term strategic issues; analyse the wider business and political implications when making decisions; including the effectiveness of the outcome."
+                            ]
+                },
+
+                {
+                    "competency": "Business Savvy",
+                    "level": "Level 2",
+                    "definition": "Using economic; financial; market; and industry data to understand and improve business results; using one’s understanding of major business functions; industry trends; and own organization’s position to contribute to effective business strategies and tactics" ,
+                    "overview": "Acts upon research & analysis of economic & industry trends; reflects on the business model to support competitiveness.",
+                    "behavioral": [
+                        "Know what differentiates ITWorx from others in the sector & understand ITWorx’s unique value proposition.",
+                        "Understand and act on market dynamics and trends that affect the business.",
+                        "Be aware of competition and its related risks and takes action.",
+                        "Manage internal expectations and keep all parties informed of developments; ensure best negotiation practice in terms of preparation; approach; strategy; tactics; and style.",
+                        "Lead fact-based decision-making for long-term strategic issues; analyse the wider business and political implications when making decisions; including the effectiveness of the outcome."
+                    ]
+        },
+
+        {
+            "competency": "Business Savvy",
+            "level": "Level 3",
+            "definition": "Using economic; financial; market; and industry data to understand and improve business results; using one’s understanding of major business functions; industry trends; and own organization’s position to contribute to effective business strategies and tactics" ,
+            "overview": "Defines key environmental & market forces that may influence the business & sets competitive strategies and defines directions to achieve goals.",
+            "behavioral": [
+                "Make efforts to continuously learn about broader social; regulatory; environmental or technological issues that might affect the business and acts accordingly.",
+                "Remain sensitive to political issues when making decisions or setting strategy but stays focused on achieving desired results.",
+                "Think beyond the boundaries of business lines; adopting a broad view; to recognize problems; align priorities and drive the strategic goals of the organization.",
+                "Develop different perspectives of the business model (e.g. risk; innovation; investment; etc.)",
+                "Demonstrate use of a direct and diplomatic style; challenge information to detect discrepancies in reasoning"
+            ]
+}     
+            ]
+                },
+
+                {
+                    "name": "planning",
+                    "levels": [
+                {
+                            "competency": "Planning and Organizing",
+                            "level": "Level 1",
+                            "definition": "Establishing courses of action for self and others to ensure that work is completed efficiently." ,
+                            "overview": "Uses formal and informal systems toachieve business / work objective.",
+                            "behavioral": [
+                                "Plan and organize his/her own work by establishing clear tasks and priorities.",
+                                "Monitor the progress of tasks and activities; and keeps supervisors informed of progress.",
+                                "Consider potential changes/risks and proposes mitigation and contingency plans.",
+                                "Be aware of the applicable organization regulations; rules and policies; and of the resources required to accomplish his/her own tasks.",
+                                "Seek opportunities to identify and introduce efficiencies in his/her own planning & organizing; within the scope of assigned tasks and applicable regulations; rules and policies."
+                            ]
+                },
+
+                {
+                    "competency": "Planning and Organizing",
+                    "level": "Level 2",
+                    "definition": "Establishing courses of action for self and others to ensure that work is completed efficiently." ,
+                    "overview": "Develops plans for the business unitand effectively organizes others.",
+                    "behavioral": [
+                        "Set clearly defined work & development objectives & target dates for self & team.",
+                        "Coordinate & manage deployment of human & financial resources within his/her team.",
+                        "Identify & introduce effective & efficient ways of organizing & managing programmes & operations within his/her team.",
+                        "Monitor team’s work and progress against target dates and milestones.",
+                        "Set contingency plans in place to respond to the changes & risks."
+                    ]
+        },
+
+        {
+            "competency": "Planning and Organizing",
+            "level": "Level 3",
+            "definition": "Establishing courses of action for self and others to ensure that work is completed efficiently." ,
+            "overview": "Plans and organizes at a strategic level.",
+            "behavioral": [
+                "Produce strategic departmental plans that are in line with the mandate; priorities and established frameworks; as well the regulations; rules and policies of ITWorx.",
+                "Encourage innovative ways of thinking in identifying efficiencies in organizing & managing programmes & operations.",
+                "Develop departmental plans & priorities with realistic timescales; being aware of; & monitor other competing priorities.",
+                " Keep abreast of global developments and their potential impact; establishes planning mechanisms that can respond to any unforeseen or disruptive events/risks.",
+                "Plan work and deploys resources to deliver organization wide results & Identifies cross-Departmental/Divisional resources and makes them available to meet ITWorx priorities."
+            ]
+}     
+            ]
+                },
+
+                {
                     "name": "drive",
                     "levels": [
                 {
