@@ -1,8 +1,8 @@
 import './App.css';
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
-import TShape from './Pages/TShape';
-import Home from './Pages/Home';
-import Competencies from './Pages/Competencies';
+import TShape from './pages/TShape';
+import Home from './pages/Home';
+import Competencies from './pages/Competencies';
 
 function App() {
   return (
