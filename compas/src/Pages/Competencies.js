@@ -1,7 +1,7 @@
 import { useLocation } from 'react-router-dom';
-import jsonData from '../JSON/Competencies.json';
-import Navbar from '../Reducer/NavBar';
-import Footer from '../Reducer/Footer';
+import jsonData from '../data/Competencies.json';
+import Navbar from '../components/NavBar';
+import Footer from '../components/Footer';
 
 const Competencies = () => {
     const location = useLocation();
