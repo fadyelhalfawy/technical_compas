@@ -1,12 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Departement from './Departement';
-import Practice from './Practice';
-import Title from './Title';
 import { useNavigate  } from 'react-router-dom';
+import DropDownMenu from './atoms/dropDownMenu';
 
 const Primary = ({ 
-    Departments, selectedPrimaryDepartment, primaryDepartment, primaryPractice,
+    departments, selectedPrimaryDepartment, primaryDepartment, primaryPractice,
      primaryPractices, selectedPrimaryPractice, primaryTitle, primaryTitles,
       selectedPrimaryTitle, handleDepartment, handlePractice, handleTitle, handleCompetencies }) => {
 
@@ -15,25 +13,31 @@ const Primary = ({
     const handleTshape = (e) => {
     e.preventDefault();
 
-    navigate('/tshape', {
-        state: { selectedTable: primaryPractice, selectedTitle: primaryTitle },
-      });
+    if (selectedPrimaryTitle.description.technicalKnowledge !== "No T-Shape") {
+        navigate('/tshape', {
+            state: { selectedTable: primaryPractice, selectedTitle: primaryTitle },
+        });
+    }
+
+    else return;
   }
 
   return (
     <div className="space-y-4">
-        <Departement 
-            department={primaryDepartment}
-            handleDepartment={handleDepartment}
-            Departments={Departments}
-        />
+        <DropDownMenu 
+        options={departments}
+        handleOption={handleDepartment}
+        option={primaryDepartment}
+        textValue={"Select Department"}
+      />
 
         {selectedPrimaryDepartment && (
             <div className='border border-2 p-3'>
-                <Practice 
-                    practice={primaryPractice}
-                    handlePractice={handlePractice}
-                    practices={primaryPractices}
+                <DropDownMenu 
+                    options={primaryPractices}
+                    handleOption={handlePractice}
+                    option={primaryPractice}
+                    textValue={"Select Practice"}
                 />
             </div>
           
@@ -41,10 +45,11 @@ const Primary = ({
 
       {selectedPrimaryPractice && (
         <div className='border border-2 p-3'>
-            <Title 
-                titles={primaryTitles}
-                title={primaryTitle}
-                handleTitle={handleTitle}
+            <DropDownMenu 
+                options={primaryTitles}
+                handleOption={handleTitle}
+                option={primaryTitle}
+                textValue={"Select Title"}
             />
         </div>
         
@@ -55,7 +60,7 @@ const Primary = ({
             <div className="border border-gray-300 rounded-lg p-2 w-full my-4">
     <div className='pl-2'>
         <strong>Job Title:</strong>
-        <p className='my-4 text-gray-500'>{ selectedPrimaryTitle.title }</p>
+        <p className='my-4 text-gray-500'>{ selectedPrimaryTitle.name }</p>
     </div>
 
     <div className='pl-2'>
