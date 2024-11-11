@@ -1,6 +1,6 @@
-import DepartmentSelector from '../Reducer/DepartmentSelector';
-import Footer from '../Reducer/Footer';
-import Navbar from '../Reducer/NavBar';
+import DepartmentSelector from '../components/departmentSelector';
+import Footer from '../components/Footer';
+import Navbar from '../components/NavBar';
 
 const Home = () => {
     return (
