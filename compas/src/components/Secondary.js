@@ -88,7 +88,7 @@ const Secondary = ({
     <div className='pl-2'>
         <strong>Key Accountabilities and decision ownership:</strong>
         <ul className='list-disc list-inside space-y-2 text-gray-500 my-4 pl-2'>
-            {selectedSecondaryTitle.description.keyAccountAbilities.map((item, index) => (
+            {selectedSecondaryTitle.description.KeyAccountAbilities.map((item, index) => (
             <li key={index}>{item}</li>
           ))}
         </ul>

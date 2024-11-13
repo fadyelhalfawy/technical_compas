@@ -9,6 +9,8 @@ const Primary = ({
       selectedPrimaryTitle, handleDepartment, handlePractice, handleTitle, handleCompetencies }) => {
 
     const navigate = useNavigate();
+    // console.log(selectedPrimaryTitle.description.keyAccountAbilities);
+    
 
     const handleTshape = (e) => {
     e.preventDefault();
@@ -86,7 +88,7 @@ const Primary = ({
     <div className='pl-2'>
         <strong>Key Accountabilities and decision ownership:</strong>
         <ul className='list-disc list-inside space-y-2 text-gray-500 my-4 pl-2'>
-            {selectedPrimaryTitle.description.keyAccountAbilities.map((item, index) => (
+            {selectedPrimaryTitle.description.KeyAccountAbilities.map((item, index) => (
             <li key={index}>
                 {item}
               </li>
