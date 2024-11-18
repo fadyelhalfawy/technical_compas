@@ -18080,13 +18080,443 @@
               {
                 "name": "Legal",
                 "titles": [
-                  "Junior Corporate Lawyer",
-                  "Corporate Lawyer",
-                  "Senior Corporate Lawyer",
-                  "Associate Legal Manager",
-                  "Legal Manager",
-                  "Senior Legal Manager",
-                  "Legal Director"
+                  {
+                    "name": "Junior Corporate Lawyer",
+                    "description": {
+                      "function": "N/A",
+                      "subFunction": "N/A",
+                      "reportsTo": "Legal Director",
+                      "jobPurpose": "Support and assist the legal department in delivering in-house legal services to the Company under the guidance of senior team members and the Legal Director",
+                      "KeyAccountAbilities": [
+                        "Supervise; delegate tasks; and provide training to the administration team to enhance their skills and ensure their professional development",
+                        "Manage the department budget; closely monitoring and comparing actual spending against planned expenditures; ensuring financial accountability and cost-effectiveness",
+                        "Maintain and manage department policies and processes; ensuring their effective implementation and adherence across the organization",
+                        "Foster effective communication with all stakeholders; to meet their requests and address any concerns or issues in a timely and efficient manner",
+                        "Take responsibility for engaging and managing relationships with suppliers; such as travel agencies and transportation agencies; to ensure receiving good deals and high-quality services",
+                        "Issue data reports as requested by management; including but not limited to travel reports; attendance records; cost analysis; providing accurate and comprehensive information for informed decision-making"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "coreSkills": [
+                        "Legal Drafting and Reviewing (Arabic & English)",
+                        "Research and Analytical skills",
+                        "Interpersonal and Communication skills",
+                        "Teamwork",
+                        "Punctuality"
+                      ],
+                      "technicalKnowledge": "No T-Shape",
+                      "qualifications": [
+                        "Bachelor’s degree in Law",
+                        "0-3 years of experience",
+                        "Microsoft office knowledge"
+                      ]
+                    }
+                  },
+
+                  {
+                    "name": "Corporate Lawyer",
+                    "description": {
+                      "function": "N/A",
+                      "subFunction": "N/A",
+                      "reportsTo": "Legal Director",
+                      "jobPurpose": "Support and assist the Legal Department in delivering in-house legal services to the Company under the guidance of senior team members and the Legal Director; while managing moderately complex legal matters independently",
+                      "KeyAccountAbilities": [
+                        "Supervise; delegate tasks; and provide training to the administration team to enhance their skills and ensure their professional development",
+                        "Manage the department budget; closely monitoring and comparing actual spending against planned expenditures; ensuring financial accountability and cost-effectiveness",
+                        "Maintain and manage department policies and processes; ensuring their effective implementation and adherence across the organization",
+                        "Foster effective communication with all stakeholders; to meet their requests and address any concerns or issues in a timely and efficient manner",
+                        "Take responsibility for engaging and managing relationships with suppliers; such as travel agencies and transportation agencies; to ensure receiving good deals and high-quality services",
+                        "Issue data reports as requested by management; including but not limited to travel reports; attendance records; cost analysis; providing accurate and comprehensive information for informed decision-making"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "coreSkills": [
+                        "Legal Drafting and Reviewing (Arabic & English)",
+                        "Research and Analytical skills",
+                        "Interpersonal and Communication skills",
+                        "Teamwork",
+                        "Punctuality",
+                        "Pressure Handling",
+                        "Negotiation Skills"
+                      ],
+                      "technicalKnowledge": "No T-Shape",
+                      "qualifications": [
+                        "Bachelor’s degree in Law",
+                        "3+ years of experience",
+                        "Microsoft office knowledge"
+                      ]
+                    }
+                  },
+
+                  {
+                    "name": "Senior Corporate Lawyer",
+                    "description": {
+                      "function": "N/A",
+                      "subFunction": "N/A",
+                      "reportsTo": "Legal Director",
+                      "jobPurpose": "Provide legal support to the Company; including legal drafting and review; legal research; regulatory compliance; represent the Company before governmental and non-governmental bodies; and manage certain complex legal matters independently",
+                      "KeyAccountAbilities": [
+                        "Supervise; delegate tasks; and provide training to the administration team to enhance their skills and ensure their professional development",
+                        "Manage the department budget; closely monitoring and comparing actual spending against planned expenditures; ensuring financial accountability and cost-effectiveness",
+                        "Maintain and manage department policies and processes; ensuring their effective implementation and adherence across the organization",
+                        "Foster effective communication with all stakeholders; to meet their requests and address any concerns or issues in a timely and efficient manner",
+                        "Take responsibility for engaging and managing relationships with suppliers; such as travel agencies and transportation agencies; to ensure receiving good deals and high-quality services",
+                        "Issue data reports as requested by management; including but not limited to travel reports; attendance records; cost analysis; providing accurate and comprehensive information for informed decision-making"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "coreSkills": [
+                        "Legal Drafting and Reviewing (Arabic & English)",
+                        "Research and Analytical skills",
+                        "Interpersonal and Communication skills",
+                        "Teamwork",
+                        "Punctuality",
+                        "Pressure Handling",
+                        "Negotiation Skills"
+                      ],
+                      "technicalKnowledge": "No T-Shape",
+                      "qualifications": [
+                        "Bachelor’s degree in Law",
+                        "5+ years of experience",
+                        "Microsoft office knowledge"
+                      ]
+                    }
+                  },
+
+                  {
+                    "name": "Associate Legal Manager",
+                    "description": {
+                      "function": "N/A",
+                      "subFunction": "N/A",
+                      "reportsTo": "Legal Director",
+                      "jobPurpose": "Provide legal support to the Company; including legal drafting and review; legal research; regulatory compliance; represent the Company before governmental and non-governmental bodies; assist the Legal Manager in overseeing specific areas and functions within the legal department's operations; and manage certain complex legal matters independently",
+                      "KeyAccountAbilities": [
+                        "Supervise; delegate tasks; and provide training to the administration team to enhance their skills and ensure their professional development",
+                        "Manage the department budget; closely monitoring and comparing actual spending against planned expenditures; ensuring financial accountability and cost-effectiveness",
+                        "Maintain and manage department policies and processes; ensuring their effective implementation and adherence across the organization",
+                        "Foster effective communication with all stakeholders; to meet their requests and address any concerns or issues in a timely and efficient manner",
+                        "Take responsibility for engaging and managing relationships with suppliers; such as travel agencies and transportation agencies; to ensure receiving good deals and high-quality services",
+                        "Issue data reports as requested by management; including but not limited to travel reports; attendance records; cost analysis; providing accurate and comprehensive information for informed decision-making"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "coreSkills": [
+                        "Legal Drafting and Reviewing (Arabic & English)",
+                        "Research and Analytical skills",
+                        "Interpersonal and Communication skills",
+                        "Teamwork",
+                        "Punctuality",
+                        "Pressure Handling",
+                        "Negotiation Skills"
+                      ],
+                      "technicalKnowledge": "No T-Shape",
+                      "qualifications": [
+                        "Bachelor’s degree in Law",
+                        "7+ years of experience",
+                        "Microsoft office knowledge"
+                      ]
+                    }
+                  },
+
+                  {
+                    "name": "Legal Manager",
+                    "description": {
+                      "function": "N/A",
+                      "subFunction": "N/A",
+                      "reportsTo": "Legal Director",
+                      "jobPurpose": "Provide general legal support to the company; proactively identify legal issues; assist in developing and implementing legal strategies; and oversee specific areas and functions within the legal department's operations Ensure compliance with applicable laws and regulations within designated areas of responsibility and represent the company in complex legal matters within those domains",
+                      "KeyAccountAbilities": [
+                        "Supervise; delegate tasks; and provide training to the administration team to enhance their skills and ensure their professional development",
+                        "Manage the department budget; closely monitoring and comparing actual spending against planned expenditures; ensuring financial accountability and cost-effectiveness",
+                        "Maintain and manage department policies and processes; ensuring their effective implementation and adherence across the organization",
+                        "Foster effective communication with all stakeholders; to meet their requests and address any concerns or issues in a timely and efficient manner",
+                        "Take responsibility for engaging and managing relationships with suppliers; such as travel agencies and transportation agencies; to ensure receiving good deals and high-quality services",
+                        "Issue data reports as requested by management; including but not limited to travel reports; attendance records; cost analysis; providing accurate and comprehensive information for informed decision-making"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "coreSkills": [
+                        "Legal Drafting and Reviewing (Arabic & English)",
+                        "Research and Analytical skills",
+                        "Interpersonal and Communication skills",
+                        "Teamwork",
+                        "Punctuality",
+                        "Pressure Handling",
+                        "Negotiation Skills",
+                        "Leadership Skills"
+                      ],
+                      "technicalKnowledge": "No T-Shape",
+                      "qualifications": [
+                        "Bachelor’s degree in Law",
+                        "9+ years of experience",
+                        "Microsoft office knowledge"
+                      ]
+                    }
+                  },
+
+                  {
+                    "name": "Senior Legal Manager",
+                    "description": {
+                      "function": "N/A",
+                      "subFunction": "N/A",
+                      "reportsTo": "Legal Director",
+                      "jobPurpose": "Proactively Identify legal issues; develop strategies; and oversee the legal department's operations Collaborate closely with the Legal Director to shape the company's legal strategy and ensure alignment with organizational goals  Ensure compliance with laws and regulations; represent the company in complex legal matters; and contribute to the formulation of company policies",
+                      "KeyAccountAbilities": [
+                        "Supervise; delegate tasks; and provide training to the administration team to enhance their skills and ensure their professional development",
+                        "Manage the department budget; closely monitoring and comparing actual spending against planned expenditures; ensuring financial accountability and cost-effectiveness",
+                        "Maintain and manage department policies and processes; ensuring their effective implementation and adherence across the organization",
+                        "Foster effective communication with all stakeholders; to meet their requests and address any concerns or issues in a timely and efficient manner",
+                        "Take responsibility for engaging and managing relationships with suppliers; such as travel agencies and transportation agencies; to ensure receiving good deals and high-quality services",
+                        "Issue data reports as requested by management; including but not limited to travel reports; attendance records; cost analysis; providing accurate and comprehensive information for informed decision-making"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "coreSkills": [
+                        "Legal Drafting and Reviewing (Arabic & English)",
+                        "Research and Analytical skills",
+                        "Interpersonal and Communication skills",
+                        "Teamwork",
+                        "Punctuality",
+                        "Pressure Handling",
+                        "Negotiation Skills",
+                        "Leadership Skills",
+                        "Business Acumen",
+                        "Strategic Thinking"
+                      ],
+                      "technicalKnowledge": "No T-Shape",
+                      "qualifications": [
+                        "Bachelor’s degree in Law",
+                        "12+ years of experience",
+                        "Microsoft office knowledge",
+                        "Masters from an international university is a plus",
+                        "Experience working in a multi-jurisdictional environment",
+                        "Comprehensive knowledge of Law is a must"
+                      ]
+                    }
+                  },
+
+                  {
+                    "name": "Legal Director",
+                    "description": {
+                      "function": "N/A",
+                      "subFunction": "N/A",
+                      "reportsTo": "Chief Financial Officer",
+                      "jobPurpose": "Direct the overall legal strategy and operations of the company; oversee all legal matters; including corporate governance; regulatory compliance; and transactions Serve as a key advisor to executive leadership and the board of directors on legal matters; offer insights and recommendations to facilitate informed decision-making; and represent the company's legal interests externally",
+                      "KeyAccountAbilities": [
+                        "Supervise; delegate tasks; and provide training to the administration team to enhance their skills and ensure their professional development",
+                        "Manage the department budget; closely monitoring and comparing actual spending against planned expenditures; ensuring financial accountability and cost-effectiveness",
+                        "Maintain and manage department policies and processes; ensuring their effective implementation and adherence across the organization",
+                        "Foster effective communication with all stakeholders; to meet their requests and address any concerns or issues in a timely and efficient manner",
+                        "Take responsibility for engaging and managing relationships with suppliers; such as travel agencies and transportation agencies; to ensure receiving good deals and high-quality services",
+                        "Issue data reports as requested by management; including but not limited to travel reports; attendance records; cost analysis; providing accurate and comprehensive information for informed decision-making"
+                      ],
+                      "coreCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "functionCompetencies": [
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        },
+                        {
+                          "name": "N/A",
+                          "link": "/"
+                        }
+                      ],
+                      "coreSkills": [
+                        "Legal Drafting and Reviewing (Arabic & English)",
+                        "Research and Analytical skills",
+                        "Interpersonal and Communication skills",
+                        "Teamwork",
+                        "Punctuality",
+                        "Pressure Handling",
+                        "Negotiation Skills",
+                        "Leadership Skills",
+                        "Business Acumen",
+                        "Strategic Thinking"
+                      ],
+                      "technicalKnowledge": "No T-Shape",
+                      "qualifications": [
+                        "Bachelor’s degree in Law",
+                        "15+ years of experience",
+                        "Microsoft office knowledge",
+                        "Masters from an international university is a plus",
+                        "Experience working in a multi-jurisdictional environment",
+                        "Comprehensive knowledge of Law is a must"
+                      ]
+                    }
+                  }
                 ]
               },
 
