@@ -9,8 +9,6 @@ const Primary = ({
       selectedPrimaryTitle, handleDepartment, handlePractice, handleTitle, handleCompetencies }) => {
 
     const navigate = useNavigate();
-    // console.log(selectedPrimaryTitle.description.keyAccountAbilities);
-    
 
     const handleTshape = (e) => {
     e.preventDefault();
