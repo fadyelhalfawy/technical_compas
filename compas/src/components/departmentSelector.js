@@ -53,10 +53,14 @@ const handleCompetencies = (e) => {
   
   const match = text.match(/[1-3]/);
   const level = `Level ${match ? parseInt(match[0], 10) : "Unknown"}`;
-    
-  navigate('/competencies', {
-    state: { competencie: competencies , level: level },
-  });
+
+  if (competencies !== "N/A") {
+    navigate('/competencies', {
+      state: { competencie: competencies , level: level },
+    });
+  }
+
+  else return;
 };
 
   const departments = jsonData.departments;
